@@ -6,6 +6,7 @@ import Students from './Components/Students'
 import { ApolloProvider } from '@apollo/client';
 
 
+
 function App() {
   return (
     <ApolloProvider client={client}>
